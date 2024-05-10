@@ -32,6 +32,9 @@ Features Included:
   ```
 - Sonos Integration with Client Id, Secret and OAuth Redirect configured. This can be created here: https://integration.sonos.com/integrations
 
+  ![image](https://github.com/wxsd-sales/roomos-sonos-macro/assets/21026209/84e22353-7a79-4578-8e60-2085f4f3ba0d)
+
+
 
 
 <!-- GETTING STARTED -->
