@@ -1,5 +1,5 @@
 
-# RoomOS SONOS Macro
+# RoomOS Sonos Macro
 
 This is an example POC macro which demos how to control a Sonos Player Group playback from a Cisco RoomOS Device.
 
@@ -8,7 +8,7 @@ This is an example POC macro which demos how to control a Sonos Player Group pla
 
 This example macro lets you sign into a Sonos Account on your RoomOS Device via OAuth and control Sonos Player Groups playback which are available in your Sonos Household.
 
-Features Included:
+Macro Features Include:
 - Sonos OAuth locally on the Cisco Device so no backend required
 - Play Group selection and filtering
 - Playlist selection for each player group
